@@ -66,13 +66,13 @@ Welcome to **Dre-AsiliVentures @GitHub**! 🚀 I am a skilled **Data Scientist**
 #### **Backend & APIs**
 - ![Node.js](https://skillicons.dev/icons?i=nodejs) `Node.js`
 - `Express.js`, `NestJS`
-- ![IPFS](https://docs.ipfs.tech/images/ipfs-logo.svg) `IPFS`
+- <img src="https://docs.ipfs.tech/images/ipfs-logo.svg" alt="IPFS" width="20"/> IPFS
 - ![MongoDB](https://skillicons.dev/icons?i=mongodb) `MongoDB`
 - ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) `PostgreSQL`
 
 
 ### **Web3 & Blockchain Tools & Frameworks**
-- <img src="https://developers.moralis.com/wp-content/uploads/2022/12/Blog-Ethers.js-Events-Ethers-1536x1062.png" alt="Ethers.js" width="20"/> Ethers.js
+- <img src="https://developers.moralis.com/wp-content/uploads/2022/12/Blog-Ethers.js-Events-Ethers-1536x1062.png" alt="IPFS" width="20"/> Ethers.js
 - <img src="https://wagmi.sh/logo-dark.svg" alt="wagmi" width="20"/> Wagmi
 - <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhe-head.aed81bd1.svg&w=384&q=75" alt="hardhat" width="20"/> Hardhat
 - <img src="https://www.rainbowkit.com/rainbow.svg" alt="RainbowKit" width="20"/> Rainbowkit
