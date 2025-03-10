@@ -43,7 +43,7 @@ Welcome to **Dre-AsiliVentures @GitHub**! 🚀 I am a skilled **Data Scientist**
 
 ### 🐍 Python Modules & Frameworks
 #### **Data Science & AI**
-- `numpy`, <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40"/>  `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `tensorflow`, `pytorch`, `statsmodels`, `xgboost`
+- `numpy`, <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas"/>  `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `tensorflow`, `pytorch`, `statsmodels`, `xgboost`
 
 #### **Web Development & APIs**
 - `Django`, `Django REST Framework`, `Flask`, `FastAPI`
