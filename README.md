@@ -66,9 +66,10 @@ Welcome to **Dre-AsiliVentures @GitHub**! 🚀 I am a skilled **Data Scientist**
 #### **Backend & APIs**
 - ![Node.js](https://skillicons.dev/icons?i=nodejs) `Node.js`
 - `Express.js`, `NestJS`
+- ![IPFS](https://docs.ipfs.tech/images/ipfs-logo.svg) `IPFS`
 - ![MongoDB](https://skillicons.dev/icons?i=mongodb) `MongoDB`
 - ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) `PostgreSQL`
-- `Prisma`
+
 
 ### **Web3 & Blockchain Tools & Frameworks**
 - <img src="https://developers.moralis.com/wp-content/uploads/2022/12/Blog-Ethers.js-Events-Ethers-1536x1062.png" alt="Ethers.js" width="20"/> Ethers.js
