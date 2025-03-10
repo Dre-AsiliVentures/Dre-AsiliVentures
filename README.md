@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Andrew Mwendwa (Dre-AsiliVentures) - Full-Stack Web3 Developer, DeFi Researcher & Data Scientist
 
-
-Welcome to **Dre-AsiliVentures @GitHub**! 🚀 I am a skilled **Data Scientist** and **Web3 Full-Stack Developer** with expertise in building AI-powered applications, decentralized solutions, and scalable web services. Passionate about blockchain, DeFi, and data-driven decision-making.
+Welcome to **Dre-AsiliVentures @GitHub**! 🚀 I am a skilled **Data Scientist**, **DeFi Researcher** and **Web3 Full-Stack Developer** with expertise in building AI-powered applications, decentralized solutions, and scalable web services. Passionate about blockchain, DeFi, and data-driven decision-making.
 
 ## 🛠️ Skills & Expertise
 
