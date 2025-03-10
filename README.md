@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Welcome to **Dre-AsiliVentures @GitHub**! 🚀 I am a skilled **Data Scientist**, **DeFi Researcher** and **Web3 Full-Stack Developer** with expertise in building AI-powered applications, decentralized solutions, and scalable web services. Passionate about blockchain, DeFi, and data-driven decision-making.
+![Tagline Cover photo](Full Stack Developer Yellow Hardhat Solidity Django Next.png)
 
 ## 🛠️ Skills & Expertise
 
