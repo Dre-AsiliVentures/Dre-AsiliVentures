@@ -65,7 +65,7 @@ Welcome to **Dre-AsiliVentures @GitHub**! 🚀 I am a skilled **Data Scientist**
 
 #### **Backend & APIs**
 - ![Node.js](https://skillicons.dev/icons?i=nodejs) `Node.js`
-- <img src="https://docs.ipfs.tech/images/ipfs-logo.svg" alt="IPFS" width="40"/> IPFS
+- <img src="https://docs.ipfs.tech/images/ipfs-logo.svg" alt="IPFS" width="40"/>  `IPFS`
 - ![MongoDB](https://skillicons.dev/icons?i=mongodb) `MongoDB`
 - ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) `PostgreSQL`
 
