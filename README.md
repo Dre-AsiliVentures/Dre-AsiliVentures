@@ -85,6 +85,7 @@ Welcome to **Dre-AsiliVentures @GitHub**! 🚀 I am a skilled **Data Scientist**
 ### 🛠️ Solidity & Smart Contracts Modules
 
 - **Development Frameworks**:
+  - <img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" alt="Remix" width="20" height="20"> `Remix`
   - <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhe-head.aed81bd1.svg&w=384&q=75" alt="Hardhat" width="20" height="20"> `Hardhat`
   - <img src="https://archive.trufflesuite.com/assets/logo.png" alt="Truffle" width="20" height="20"> `Truffle`
   - <img src="https://avatars.githubusercontent.com/u/55654090?s=48&v=4" alt="Brownie" width="20" height="20"> `Brownie`
