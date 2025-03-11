@@ -75,7 +75,7 @@ Welcome to **Dre-AsiliVentures @GitHub**! 🚀 I am a skilled **Data Scientist**
 
 ### **Web3 & Blockchain Tools & Frameworks**
 - <img src="https://developers.moralis.com/wp-content/uploads/2022/12/Blog-Ethers.js-Events-Ethers-1536x1062.png" alt="IPFS" width="20"/> Ethers.js
-- <img src="https://wagmi.sh/logo-dark.svg" alt="wagmi" width="40"/> Wagmi
+- <img src="https://wagmi.sh/logo-light.svg" alt="wagmi" width="30"/> Wagmi
 - <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhe-head.aed81bd1.svg&w=384&q=75" alt="hardhat" width="20"/> Hardhat
 - <img src="https://www.rainbowkit.com/rainbow.svg" alt="RainbowKit" width="20"/> Rainbowkit
 - <img src="https://web3js.org/web3js.png" alt="web3.js" width="20"/> Web3.js
