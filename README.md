@@ -94,7 +94,7 @@ Welcome to **Dre-AsiliVentures @GitHub**! 🚀 I am a skilled **Data Scientist**
   - <img src="https://www.mycryptopedia.com/wp-content/uploads/2019/11/rsz_ganachee.png" alt="Ganache" width="20" height="20"> `Ganache`
 
 - **Web3 Contract Upgrades & Security**:
-  - <img src="https://www.openzeppelin.com/hubfs/oz-nav.svg" alt="OpenZeppelin" width="40" height="50"> `OpenZeppelin`
+  - <img src="https://cudedesign.co.uk/wp-content/uploads/2022/06/OpenZeppelin-Programming-Language.png" alt="OpenZeppelin" width="40" height="50"> `OpenZeppelin`
   - <img src="https://imagedelivery.net/qdx9xDn6TxxInQGWsuRsVg/5646cd55-8803-4fec-bc22-95c20ad0dd00/public" alt="OpenZeppelin" width="40" height="40"> `ChainSafe`
 
 - **DeFi & Token Standards**:
