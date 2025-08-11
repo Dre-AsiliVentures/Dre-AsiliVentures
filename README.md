@@ -30,10 +30,10 @@ Welcome to **Dre-AsiliVentures @GitHub**! 🚀 I am a skilled **Data Scientist**
 
 ### 📊 Data Science & AI
 - **Machine Learning & Deep Learning** (Scikit-Learn, TensorFlow, PyTorch)
-- **Data Analytics & Visualization** (Pandas, Matplotlib, Seaborn, Plotly)
+- **Data Analytics & Visualization** (Pandas, Matplotlib, Seaborn, Plotly, Lucid React)
 - **AI Trading & Predictive Analytics**
-- **Crypto Agents: Fundamental, Sentiment Analysis** (Jupyter Notebook, Threading, Ollama)
-- **Blockchain Data Analytics**
+- **Crypto Agents: Fundamental, Sentiment Analysis** (Jupyter Notebook, Threading, OpenAI, Claude, Grok, Ollama)
+- **Blockchain Data Analytics** (DeFiLlama, Arkham, L2Beat, Binance API, Jupyter Notebook, Pandas, Ollama, Claude, Seaborn, Matplotlib)
 
 ---
 
